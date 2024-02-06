@@ -7,6 +7,6 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-You can see my website on[ ]
+You can see my website on[ https://nayemmolllick.github.io/responsive-bakery-website-main1/]
 
 ![preview img](/preview.png)
